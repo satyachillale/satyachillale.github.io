@@ -8,7 +8,7 @@
     "url": "https://satyachillale.github.io/",
     "summary": "Master of Science in Computer Science graduate with experience in blockchain, cloud computing, and machine learning",
     "location": {
-      "address": "117 Elizabeth Street",
+      "address": "Elizabeth Street",
       "postalCode": "10013",
       "city": "New York",
       "countryCode": "US",
@@ -23,11 +23,21 @@
       "url": "",
       "startDate": "2021-05-01",
       "endDate": "2023-08-01",
-      "summary": "Re-engineered Oracle Blockchain Platform and developed MicroTx for distributed transactions",
+      "summary": "End-to-End design and development of cloud service",
       "highlights": [
-        "Redesigned on-premise architecture to cloud-based Kubernetes architecture",
-        "Developed MicroTx achieving 2200 transactions per second",
-        "Mentored junior developers"
+        "Orchestrated distributed data consistency by developing and launching a cloud-native Go service – MicroTx",
+        "Scaled the system to process over 300 billion transactions at 8,500 transactions/sec, with failure rate below 0.01%",
+        "Engineered strong data consistency via industry-standard XA protocol supporting MySQL, Postgres, and Oracle DB",
+        "Implemented eventual consistency through LRA and TCC protocols for stateless NoSQL DB",
+        "Designed application-layer middleware APIs to support Java, Node.js, and Python microservices",
+        "Integrated out-of-the-box Istio API Gateway authorization for secure access via OAuth2, JWT, and enterprise SSO",
+        "Built unified Helm charts to enable seamless deployment on AWS, Oracle Cloud, and GCP Kubernetes environment",
+        "Developed admin console backend APIs to support real-time transaction monitoring, tracing, and service health checks",
+        "Mentored three junior developers on building the admin console UI for MicroTx",
+        "Oracle Blockchain Platform on Kubernetes: Designed the platform’s cloud-native architecture as the technical lead",
+        "Adapted Helm deployment patterns to support cloud blockchain provisioning in 10 minutes across cloud environments",
+        "Extended expertise from MicroTx to configure secure SSL and certificate management across blockchain nodes",
+        "Leveraged Istio and Envoy to manage traffic routing for 10+ blockchain services with SNI-based ingress"
       ]
     },
     {
@@ -38,8 +48,17 @@
       "endDate": "2021-05-14",
       "summary": "Implemented server-driven UI system and developed data browsing features for HANA database browser tool",
       "highlights": [
-        "Accelerated product development by 5x",
-        "Delivered lectures at SAP TechEd"
+        "Led the design of Server-driven UI system that automated front-end generation and eliminated manual development",
+        "Reduced delivery timelines from 12 weeks to 4 weeks while saving 40% resources of 75 engineers",
+        "Defined flexible JSON schema specifications to model versatile and dynamic UI components, layouts, and behaviors",
+        "RESTful Application Model: Built tools adopted by 10,000+ engineers to accelerate ERP app development",
+        "Below tools boosted overall ERP application development efficiency by 30% across service teams",
+        "Auto-generated core entities and all service artifacts from API specifications to consume remote services",
+        "Created tool to generate OData API specifications from SAP core data models, enabling faster API delivery",
+        "Developed one-click REST API and web UI auto-generator, improving development speed and testing",
+        "Recognized with Best Early Talent Award in 2018 and 2019 for top performance and high-impact contributions",
+        "Implemented fine-grained access control for Data Preview, enabling secure exploration of 10,000+ S/4 HANA tables",
+        "Enhanced Data Preview tool with advanced filtering and SQL editor capabilities to improve data exploration"
       ]
     }
   ],
