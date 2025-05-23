@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-[[Project Website]](https://aiden-frost.github.io/RocketLeagueGym-Rewards/) [[Presentation]](https://docs.google.com/presentation/d/1Losh2EeNvpRQ31Fi9mhvghKpchoFJYR-8D2LuFRhyDY/edit?usp=sharing) [[Code]](https://github.com/Aiden-Frost/RocketLeagueGym-Rewards/tree/main)
+[[Project Website]](https://aiden-frost.github.io/RocketLeagueGym-Rewards/) [[Presentation]](https://docs.google.com/presentation/d/1Losh2EeNvpRQ31Fi9mhvghKpchoFJYR-8D2LuFRhyDY/edit?usp=sharing) [[Code]](https://github.com/satyachillale/RocketLeagueGym-Rewards)
 
 ### Introduction
 
