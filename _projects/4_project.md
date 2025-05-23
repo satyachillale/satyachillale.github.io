@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SENTIMENT & CAPITAL, THE DATA BEHIND FINANCIALMOVEMENTS
+title: Sentiment And Capital, The Data Behind Financial Movements
 description: Analyzes financial data and sentiment, revealing interconnections across stocks, Bitcoin, loans.
 img: assets/img/stock-market-image.jpeg
 importance: 2
