@@ -409,8 +409,8 @@ ninja.data = [{
           description: "Optimized CUDA kernels for large-scale linear algebra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-sentiment-amp-capital-the-data-behind-financialmovements",
-          title: 'SENTIMENT &amp;amp; CAPITAL, THE DATA BEHIND FINANCIALMOVEMENTS',
+            },},{id: "projects-sentiment-and-capital-the-data-behind-financial-movements",
+          title: 'Sentiment And Capital, The Data Behind Financial Movements',
           description: "Analyzes financial data and sentiment, revealing interconnections across stocks, Bitcoin, loans.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
