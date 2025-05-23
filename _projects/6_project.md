@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dynamo DB: Effectiveness of Anti-Entropy and Gossip Protocol
-description: 
+title: Dynamo DB - Effectiveness of Anti-Entropy and Gossip Protocol
+description: A DynamoDB-inspired distributed key-value store that explores how gossip, anti-entropy, and quorum settings impact eventual consistency and fault recovery.
 img: assets/img/rl.png
 importance: 2
 category: work
