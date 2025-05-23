@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started career as Developer at SAP Labs India
+Started career as Developer at SAP Labs

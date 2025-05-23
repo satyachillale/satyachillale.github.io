@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Oracle India as Senior Member Technical Staff
+Joined Oracle as Senior Member of Technical Staff

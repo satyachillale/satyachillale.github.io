@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from PES University with a Bachelor's in Computer Science with distinction.
+Graduated from PES University with a Bachelor's in Computer Science with distinction

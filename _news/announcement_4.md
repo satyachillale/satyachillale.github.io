@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started Master's in Computer Science at Courant Institute of Mathematical Sciences, New York University.
+Started Master's in Computer Science at Courant Institute of Mathematical Sciences, New York University
