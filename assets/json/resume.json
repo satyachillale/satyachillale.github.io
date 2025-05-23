@@ -32,7 +32,7 @@
         "Implemented eventual consistency through LRA and TCC protocols for stateless NoSQL DB",
         "Built unified Helm charts to enable seamless deployment on AWS, Oracle Cloud, and GCP Kubernetes environment",
         "Developed admin console backend APIs to support real-time transaction monitoring, tracing, and service health checks",
-        "Adapted Helm deployment patterns to support cloud blockchain provisioning in 10 minutes across cloud environments",
+        "Adapted Helm deployment patterns to support cloud blockchain provisioning in 10 minutes across cloud environments"
       ]
     },
     {
