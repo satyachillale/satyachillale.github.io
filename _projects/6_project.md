@@ -44,36 +44,36 @@ All experiments were run on a simulated cluster of logical nodes (Elixir process
 
 We evaluated three key aspects:
 
-#### 1. Impact of Repair Protocols (Gossip & Anti-Entropy)
+##### 1. Impact of Repair Protocols (Gossip & Anti-Entropy)
 
 - Compared configurations with and without background repair.
 - Simulated partial write failures and measured stale read rates under drop conditions.
 
-#### 2. Effect of Quorum Settings (R/W)
+##### 2. Effect of Quorum Settings (R/W)
 
 - Tested combinations of (R, W): (1,4), (2,3), (3,4), and (4,1).
 - Measured stale reads with all repair protocols disabled to isolate quorum effects.
 
-#### 3. Synchronization Interval Tuning
+##### 3. Synchronization Interval Tuning
 
 - Varied background sync intervals (20ms, 50ms, 100ms, and 100,000ms) for gossip and anti-entropy.
 - Fixed quorum at R=1, W=3 to maximize the chance of stale reads.
 
 ### Key Results
 
-#### 1. Repair Protocols vs Message Drops
+##### 1. Repair Protocols vs Message Drops
 
 - Without repair, stale reads increased sharply with packet loss (up to **14% at 10% drops**).
 - Enabling **gossip** and **anti-entropy** reduced stale reads to under **7%**, even under the worst conditions.
 - Systems with failures **and** recovery protocols **outperformed** failure-free systems with no repair.
 
-#### 2. R/W Quorum Trade-offs
+##### 2. R/W Quorum Trade-offs
 
 - **R=1** resulted in approximately **15% stale reads**, even with **W=4**.
 - **R=4** eliminated all stale reads.
 - These findings validate that **R + W > N** improves consistency, but **does not guarantee** it when operations overlap in time.
 
-#### 3. Synchronization Frequency Impact
+##### 3. Synchronization Frequency Impact
 
 - Higher sync frequency (**20ms**) led to the fewest stale reads (~**4%**).
 - Disabling repair (**100,000ms**) more than **doubled** stale reads (~**12%**).
