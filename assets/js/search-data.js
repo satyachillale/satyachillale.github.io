@@ -419,9 +419,9 @@ ninja.data = [{
           description: "A deep dive into how reward design shapes the instincts of AI agents on the Rocket League field",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-sentiment-amp-capital-the-data-behind-financialmovements",
-          title: 'SENTIMENT &amp;amp; CAPITAL, THE DATA BEHIND FINANCIALMOVEMENTS',
-          description: "Analyzes financial data and sentiment, revealing interconnections across stocks, Bitcoin, loans.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
