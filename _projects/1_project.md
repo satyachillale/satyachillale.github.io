@@ -4,7 +4,7 @@ title: Advanced Video Frame Prediction and Segmentation
 description: A Dive into Masked Conditional Diffusion and U-Net
 img: assets/img/image_21.png
 importance: 1
-category: work
+category: Graduate Studies
 related_publications: false
 ---
 

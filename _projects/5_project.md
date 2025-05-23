@@ -4,7 +4,7 @@ title: Reinforcement Learning in Rocket League (RL²) Multi reward system
 description: A deep dive into how reward design shapes the instincts of AI agents on the Rocket League field
 img: assets/img/rl.png
 importance: 2
-category: work
+category: Graduate Studies
 giscus_comments: false
 ---
 

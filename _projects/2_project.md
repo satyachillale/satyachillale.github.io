@@ -4,7 +4,7 @@ title: Image Geolocation
 description: Predicting geographic coordinates from images using hierarchical clustering and retrieval augmented generation.
 img: assets/img/geoclip_architecture.png
 importance: 2
-category: work
+category: Graduate Studies
 giscus_comments: false
 ---
 

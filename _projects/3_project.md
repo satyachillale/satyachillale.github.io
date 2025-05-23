@@ -4,7 +4,7 @@ title: CoLA Kernels
 description: Optimized CUDA kernels for large-scale linear algebra
 img: assets/img/gpu_project_image.png
 importance: 2
-category: work
+category: Graduate Studies
 giscus_comments: false
 ---
 
