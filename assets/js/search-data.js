@@ -397,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-with-a-master-s-in-computer-science-from-the-courant-institute-of-mathematical-sciences-new-york-university",
           title: 'Graduated with a Master’s in Computer Science from the Courant Institute of Mathematical...',
           description: "",
-          section: "News",},{id: "projects-advancing-video-frame-prediction-and-segmentation",
-          title: 'Advancing Video Frame Prediction and Segmentation',
+          section: "News",},{id: "projects-advanced-video-frame-prediction-and-segmentation",
+          title: 'Advanced Video Frame Prediction and Segmentation',
           description: "A Dive into Masked Conditional Diffusion and U-Net",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
