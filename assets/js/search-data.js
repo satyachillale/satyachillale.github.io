@@ -419,9 +419,9 @@ ninja.data = [{
           description: "A deep dive into how reward design shapes the instincts of AI agents on the Rocket League field",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-dynamo-db-effectiveness-of-anti-entropy-and-gossip-protocol",
+          title: 'Dynamo DB - Effectiveness of Anti-Entropy and Gossip Protocol',
+          description: "A DynamoDB-inspired distributed key-value store that explores how gossip, anti-entropy, and quorum settings impact eventual consistency and fault recovery.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
