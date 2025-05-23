@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-[[Project Report]](satyachillale.github.io/assets/pdf/ds_proj_report.pdf) [[Code]](https://github.com/satyachillale/dynamo)
+[[Project Report]](https://satyachillale.github.io/assets/pdf/ds_proj_report.pdf) [[Code]](https://github.com/satyachillale/dynamo)
 
 ### Introduction
 
