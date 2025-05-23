@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reinforcement Learning in Rocket League (RL²) Multi reward system
-description: A deep dive into how reward design shapes the instincts of AI agents on the Rocket League field
+title: SENTIMENT & CAPITAL, THE DATA BEHIND FINANCIALMOVEMENTS
+description: Analyzes financial data and sentiment, revealing interconnections across stocks, Bitcoin, loans.
 img: assets/img/rl.png
 importance: 2
 category: work
