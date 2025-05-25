@@ -18,6 +18,20 @@
   },
   "work": [
     {
+      "name": "STEALTH STARTUP",
+      "position": "Technical Head",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "2025-03-01",
+      "summary": "End-to-End design and development of a dev tool for monitoring, analysing and optimizing AI agent",
+      "highlights": [
+        "Led the development of a product for real-time analysis and optimization of multi-agent AI systems",
+        "Implemented KPI-driven prompt optimization, improving task success rate by 25% through iterative tuning and evaluation",
+        "Integrated support for popular frameworks including LangChain, CrewAI, and AutoGen",
+        "Used by 5 teams across multiple early-stage startups for debugging and optimizing AI agents"
+      ]
+    },
+    {
       "name": "Oracle India Private Limited",
       "position": "Senior Member Technical Staff",
       "url": "",
