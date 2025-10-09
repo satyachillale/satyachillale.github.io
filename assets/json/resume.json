@@ -1,22 +1,35 @@
 {
   "basics": {
     "name": "Satyanarayana Chillale",
-    "label": "Computer Science Engineer",
+    "label": "Senior Engineer",
     "image": "",
     "email": "satyanarayanachillale@gmail.com",
     "phone": "(945) 289-4804",
     "url": "https://satyachillale.github.io/",
-    "summary": "Senior Software Engineer with 6+ years of experience and an M.S. in Computer Science from NYU, specializing in full-stack development, cloud infrastructure, and AI/ML applications.",
+    "summary": "Senior Software Engineer with 6+ years of experience and an M.S. in Computer Science from NYU, specializing in cloud infrastructure, AI/ML applications and full-stack development",
     "location": {
-      "address": "Elizabeth Street",
-      "postalCode": "10013",
-      "city": "New York",
+      "address": "Camino Ruiz",
+      "postalCode": "92126",
+      "city": "San Diego",
       "countryCode": "US",
-      "region": "NY"
+      "region": "CA"
     },
     "profiles": []
   },
   "work": [
+    {
+      "name": "Qualcomm Technologies",
+      "position": "Senior Engineer",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "2025-03-01",
+      "summary": "Building scalable LLM inference platforms, optimizing model deployment, and enabling intelligent AI agents",
+      "highlights": [
+        "Building the company’s core LLM inference platform powering all chat, code, and agentic workflows",
+        "Deployed and optimized gpt-oss-120b, Qwen3-235B models via vLLM, scaling throughput across inference workloads",
+        "Accelerating inference on the AI100 chip to deliver low cost, high throughput for customer AI agent applications"
+      ]
+    },
     {
       "name": "STEALTH STARTUP",
       "position": "Technical Head",
